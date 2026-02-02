@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @nataliemaus
-- 👀 I’m interested in probabilistic machine learning, Bayesian optimization, and generative modeling
-- 🌱 I’m currently a Ph.D. student at UPenn (expected graduation: May 2026) 
+- 👀 I’m interested in AI for science (applying probabilistic machine learning, Bayesian optimization, generative modeling, and more to problems in Biology and Health)
+- 🌱 I’m currently a postdoc a MIT
 - 💞️ I’m looking to collaborate on research
-- 📫 How to reach me: nmaus@seas.upenn.edu
+- 📫 How to reach me: nmaus@mit.edu
 - Website: https://nataliemaus.github.io/
-<!---
-nataliemaus/nataliemaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
